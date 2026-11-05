@@ -3,7 +3,8 @@
 # Hi, my name is Josue
 
 <!-- Banner -->
-<img scr="https://i.etsystatic.com/30097568/r/il/71be9d/5951491243/il_1080xN.5951491243_n5uj.jpg" />
+<img width="1080" height="540" alt="banner github" src="https://github.com/user-attachments/assets/a7ca7799-351e-413d-a1b1-8811af84126b" />
+
 
 <h3> I like coding, gaming, sports</h3>
 
