@@ -16,17 +16,17 @@
 
 ### Technologies That I Know
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,mysql,nodejs,php,postgres,react,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,mysql,nodejs,php,postgres,react,vscode,discord,docker,github,js,py,ts)](https://skillicons.dev)
 
 
 ### Social Media
 
 <!-- Redes Sociales -->
 <a href="https://www.linkedin.com/feed/" target="_blank">
-  <img src="https://shields.io" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://www.instagram.com/j0ssu_01/" target="_blank">
-  <img src="https://shields.io" />
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </div>
