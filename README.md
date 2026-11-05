@@ -1,6 +1,6 @@
 <div aling="center">
 
-# Hi, my neme is Josue
+# Hi, my name is Josue
 
 <!-- Banner -->
 <img scr="https://i.etsystatic.com/30097568/r/il/71be9d/5951491243/il_1080xN.5951491243_n5uj.jpg" />
